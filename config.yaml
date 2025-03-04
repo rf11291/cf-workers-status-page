@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: SKYIMG # unique identifier
+  - id: skyimg # unique identifier
     name: skyimg.de
     description: 'Website Homepage' # default=empty
     url: 'https://skyimg.de/' # URL to fetch
